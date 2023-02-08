@@ -20,7 +20,7 @@ authors: Les Zétudiants
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutme"
   Resources:
     - Archive: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
