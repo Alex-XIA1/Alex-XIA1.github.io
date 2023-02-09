@@ -22,7 +22,7 @@ authors: Les Zétudiants
 navbar-links:
   About Us: "aboutme"
   Resources:
-    - Archive (repo privée) : "https://github.com/Alex-XIA1/Zetudiants"
+    - Archive (repo privée) : "archive"
 
 ################
 # --- Logo --- #
