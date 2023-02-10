@@ -9,7 +9,7 @@ Retrouvez ici toutes les archives !
 
 ![Interviews](/assets/img/mic.jpg)
 
-(répo privée)
+(répo privée avec les archives et d'autres fichiers)
 
 [Repo](https://github.com/Alex-XIA1/Zetudiants/tree/main/Interviews)
 
