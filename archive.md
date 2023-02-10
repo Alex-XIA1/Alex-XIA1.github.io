@@ -7,13 +7,16 @@ subtitle: Description
 
 Test la page d'archives
 
-![Crepe](/assets/img/mic.jpg)
+![Interviews](/assets/img/mic.jpg)
 
-(répo privée pour l'instant)
-
+(répo privée)
 
 [Repo](https://github.com/Alex-XIA1/Zetudiants/tree/main/Interviews)
 
-Vers le blog post :
+Vers les blog post :
 
-[Blogpost](https://alex-xia1.github.io/2023-02-08-Interviews/)
+- [Interview1](https://alex-xia1.github.io/2023-02-10-Interview1/)
+- [Interview2](https://alex-xia1.github.io/2023-02-10-Interview2/)
+- [Interview3](https://alex-xia1.github.io/2023-02-10-Interview3/)
+- [Interview4](https://alex-xia1.github.io/2023-02-10-Interview4/)
+- [Interview5](https://alex-xia1.github.io/2023-02-10-Interview5/)
