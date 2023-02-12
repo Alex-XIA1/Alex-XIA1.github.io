@@ -2,9 +2,9 @@
 layout: post
 title: Interaction points
 subtitle: Toutes les interactions points (pour l'instant)
-cover-img: /assets/img/inter1.png
-thumbnail-img: /assets/img/inter1.png
-share-img: /assets/img/inter1.png
+cover-img: /assets/img/interp1.png
+thumbnail-img: /assets/img/interp1.png
+share-img: /assets/img/interp1.png
 tags: [Interactions]
 ---
 
