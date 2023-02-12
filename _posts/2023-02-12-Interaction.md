@@ -13,9 +13,9 @@ Vous trouverez ici toutes nos interaction points (on mettra possiblement à jour
 
 ### Une carte trop remplie
 
-![Interaction1](/assets/img/inter1.png)
+![Interaction1](/assets/img/interp1.png)
 
 
 ### Comment se faire de l'argent facilement sur the sims
 
-![Interaction2](/assets/img/inter2.png)
+![Interaction2](/assets/img/interp2.png)
