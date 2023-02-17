@@ -2,9 +2,9 @@
 layout: post
 title: Brainstorming
 subtitle: Le brainstorming
-cover-img: /assets/img/brainstorming/bs1.png
-thumbnail-img: /assets/img/brainstorming/bs1.png
-share-img: /assets/img/brainstorming/bs1.png
+cover-img: /assets/img/brainstorming/bs1.jpg
+thumbnail-img: /assets/img/brainstorming/bs1.jpg
+share-img: /assets/img/brainstorming/bs1.jpg
 tags: [Brainstorm]
 ---
 
