@@ -21,3 +21,6 @@ Nos idées suite aux petites sessions de brainstorming entreprises
 ### Partie III :
 
 ![Part3](/assets/img/brainstorming/bs3.jpg)
+
+
+On en a tiré 3 dimensions : Communautaire entre personnes qui s'échangent les cartes, Sens en ce qui concerne sensations lors du toucher de carte et les objets réels qui sont dans notre pièce lorsqu'on joue.
