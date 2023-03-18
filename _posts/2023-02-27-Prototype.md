@@ -9,6 +9,6 @@ tags: [Prototype]
 ---
 
 
-Vous retrouverez nos prototypes vidéos du projet "Immersive room" vers le lien suivant :
+Vous retrouverez nos prototypes vidéos de notre projet vers le lien suivant :
 
 [Prototypes Vidéo](https://drive.google.com/file/d/1S7YCXBoKStpyMWcLW34CCI2BBP2xqDRL/view)
