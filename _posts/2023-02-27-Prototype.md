@@ -12,7 +12,7 @@ tags: [Prototype]
 ### Voici quelques exemples de scénario de notre prototype vidéo :
 
 
-##### Scénario : Distributeur de cookie
+##### Scénario : Distributeur de cookie (se souvenir du lieu de dégustation de cookie)
 
 ![Scenario1](/assets/img/Scenario1.png)
 
