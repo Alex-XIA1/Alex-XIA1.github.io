@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Interview 3 et 4
-subtitle: Interview 3 et 4
+title: Interview 1
+subtitle: Interview 1
 cover-img: /assets/img/inter.jpg
 thumbnail-img: /assets/img/mic.jpg
 share-img: /assets/img/inter.jpg
