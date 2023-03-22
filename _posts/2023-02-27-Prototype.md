@@ -12,11 +12,11 @@ tags: [Prototype]
 ### Voici quelques exemples de scénario de notre prototype vidéo :
 
 
-##### Scénario : distributeur de cookie
+##### Scénario : Distributeur de cookie
 
 ![Scenario1](/assets/img/Scenario1.png)
 
-##### Scénario : Soleil/lampe
+##### Scénario : Lumière pour repérage
 
 ![Scenario2](/assets/img/scenario2.png)
 
