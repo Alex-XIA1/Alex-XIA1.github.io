@@ -12,4 +12,4 @@ tags: [Presentation]
 
 Voici notre présentation :
 
-![Presentation](https://drive.google.com/file/d/1fQlPemx7QpgD28_uuaZye53zQSfgMq3a/view?usp=sharing)
+[Presentation](https://drive.google.com/file/d/1fQlPemx7QpgD28_uuaZye53zQSfgMq3a/view?usp=sharing)
