@@ -11,7 +11,7 @@ tags: [Interactions]
 
 # Partie utilisée dans le prototype
 
-Vous trouverez ici toutes nos interaction points (on mettra possiblement à jour avec plus d'interaction points !)
+Vous trouverez ici toutes nos interaction points 
 
 ### Une carte trop remplie, immersion ruinée et jeu
 
