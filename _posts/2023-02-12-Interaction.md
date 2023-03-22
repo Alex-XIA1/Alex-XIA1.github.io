@@ -9,12 +9,16 @@ tags: [Interactions]
 ---
 
 
+# Partie utilisée dans le prototype
+
 Vous trouverez ici toutes nos interaction points (on mettra possiblement à jour avec plus d'interaction points !)
 
 ### Une carte trop remplie, immersion ruinée et jeu
 
 ![Interaction1](/assets/img/interp1.png)
 
+
+# Partie non utilisée dans le prototype
 
 ### Comment se faire de l'argent facilement sur the sims (probablement moins en rapport avec l'idée finale sur l'espace)
 
