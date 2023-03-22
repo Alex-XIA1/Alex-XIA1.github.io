@@ -29,5 +29,18 @@ Personas :
 Brainstorming :
 - [Brainstorming](https://alex-xia1.github.io/2023-02-17-Brainstorming/)
 
+Design Space :
+
+- [Designspace](https://alex-xia1.github.io/2023-03-22-DesignSpace/)
+
 Prototype :
-- [Prototype](https://alex-xia1.github.io/2023-02-27-Prototype//)
+- [Prototype](https://alex-xia1.github.io/2023-02-27-Prototype/)
+
+Futur :
+
+- [Futur](https://alex-xia1.github.io/2023-03-22-Evaluation/)
+
+Prensentation finale :
+
+- [Presentation](https://alex-xia1.github.io/2023-03-22-Presentation/)
+
