@@ -18,6 +18,10 @@ Vous trouverez ici toutes nos interaction points
 ![Interaction1](/assets/img/interp1.png)
 
 
+### Dans le cas opposé ?
+
+![Interaction2](/assets/img/IMG_20230322_111021__01.jpg)
+
 # Partie non utilisée dans le prototype
 
 ### Comment se faire de l'argent facilement sur the sims (probablement moins en rapport avec l'idée finale sur l'espace)
